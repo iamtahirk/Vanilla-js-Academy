@@ -1,7 +1,7 @@
 ## Project Day 05: Toggling passwords in multiple forms
 [Go Make Things](https://gomakethings.com/)
 
-In today’s project, we’re going to modify our password toggle script again.
+In today’s project, we’re going to modify our password toggle script again. 
 
 This time, we have two separate forms that show up on the same page—one to change your username, and another to change your password.
 
